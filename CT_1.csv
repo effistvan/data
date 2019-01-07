@@ -1,4 +1,4 @@
-num,colorVal,num,colorVal,CoreID,D1,d2,h,m,Linearity,B THD [%],mu,Imax [A],I rated [A],FeLoss,Limit_Freq [MHz],Exc factor,Bs max [T],N (1V)
+num,colorVal,num,colorVal,CoreID,D1,d2,h,m,Linearity,B_THD,mu,Imax,I_rated,FeLoss,Limit_Freq,Exc_factor,Bs_max,N
 1,-2822,1,-1897,F70817-5VF-24,21.93,17.4,10,9.58,0.830489,3.5,472,108,100,0.005726111,10.4,0.830663,1.00,111
 2,-770,2,-3877,F80917-2VF-10,24.37,17,6,8.88,0.743493,2.5,563,105,100,0.007750517,8.6,0.913536,1.08,115
 3,-2295,3,-128,F80917-2VF-7,24.28,17,6,8.52,0.718888,0.7,520,95,100,0.008164584,9.6,0.770371,0.93,126

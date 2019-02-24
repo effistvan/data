@@ -1,15 +1,5 @@
-ï»¿Product Variations;;Config;;;;;;Application;;;;;;
-Product;Config Name;R;H;D;A;W;Level;Function;Location;Climate;Category;Infrastructure;Material Limitations;Material preference
-BeeHouse;mYnest;;;;;;;LakÃ³hÃ¡z;BelterÃ¼let;SarkvidÃ©ki (Ã¡llandÃ³an fagyos);Ã–nÃ¡llÃ³;VÃ­z;0;Fa 
-BeeHouse;Single Level;;;;;;;MellÃ©kÃ©pÃ¼let;KÃ¼lterÃ¼let;SarkkÃ¶ri (tundra);Csoportos (telepÃ¼lÃ©s);Villany;0;FÃ©m
-BeeHouse;Double Decker;;;;;;;RaktÃ¡r;Remote;Hideg mÃ©rsÃ©kelt;0;GÃ¡z;0;MÅ±anyag
-BeeHouse;R5MM;;;;;;;GazdasÃ¡gi Ã©pÃ¼let;FÃ¶ldsznt alatt;SzÃ©lsÅ‘sÃ©gesen kontinentÃ¡lis;0;KÃ¡beles Internet;0;0
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
+Product,Config Name,R,H,D,A,W,Level,Function,Location,Climate,Category,Infrastructure,Material Limitations,Material preference
+BeeHouse,mYnest,,,,,,,Lakóház,Belterület,Sarkvidéki (állandóan fagyos),Önálló,Víz,0,Fa 
+BeeHouse,Single Level,,,,,,,Melléképület,Külterület,Sarkköri (tundra),Csoportos (település),Villany,0,Fém
+BeeHouse,Double Decker,,,,,,,Raktár,Remote,Hideg mérsékelt,0,Gáz,0,Mûanyag
+BeeHouse,R5MM,,,,,,,Gazdasági épület,Földsznt alatt,Szélsõségesen kontinentális,0,Kábeles Internet,0,0

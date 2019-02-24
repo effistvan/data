@@ -3,7 +3,7 @@ num,colorVal,Product,Config Name,R,H,D,A,W,Level,Function,Location,Climate,Categ
 2,-4000,BeeHouse,Single Level,4,12,20,6,14,b,Melléképület,Külterület,Sarkköri (tundra),Csoportos (település),Villany,-,Fém
 3,26,BeeHouse,Double Decker,6,14,22,4,13,c,Raktár,Remote,Hideg mérsékelt,-,Gáz,-,Műanyag
 4,-607,BeeHouse,R5MM,8,16,24,2,10,d,Gazdasági épület,Földsznt alatt,Szélsőségesen kontinentális,-,Kábeles Internet,-,-
-1,-2235,BeeHouse,mYnest,2,10,18,8,16,a,Lakóház,Belterület,Sarkvidéki (állandóan fagyos),Önálló,Víz,-,Fa 
-2,-3000,BeeHouse,Single Level,4,12,20,6,14,b,Melléképület,Külterület,Sarkköri (tundra),Csoportos (település),Villany,-,Fém
-3,16,BeeHouse,Double Decker,6,14,22,4,13,c,Raktár,Remote,Hideg mérsékelt,-,Gáz,-,Műanyag
-4,-607,BeeHouse,R5MM,8,16,24,2,10,d,Gazdasági épület,Földsznt alatt,Szélsőségesen kontinentális,-,Kábeles Internet,-,-
+5,-2235,BeeHouse,mYnest,2,10,18,8,16,a,Lakóház,Belterület,Sarkvidéki (állandóan fagyos),Önálló,Víz,-,Fa 
+6,-3000,BeeHouse,Single Level,4,12,20,6,14,b,Melléképület,Külterület,Sarkköri (tundra),Csoportos (település),Villany,-,Fém
+7,16,BeeHouse,Double Decker,6,14,22,4,13,c,Raktár,Remote,Hideg mérsékelt,-,Gáz,-,Műanyag
+8,-607,BeeHouse,R5MM,8,16,24,2,10,d,Gazdasági épület,Földsznt alatt,Szélsőségesen kontinentális,-,Kábeles Internet,-,-

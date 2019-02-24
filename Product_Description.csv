@@ -1,0 +1,15 @@
+﻿Product Variations;;Config;;;;;;Application;;;;;;
+Product;Config Name;R;H;D;A;W;Level;Function;Location;Climate;Category;Infrastructure;Material Limitations;Material preference
+BeeHouse;mYnest;;;;;;;Lakóház;Belterület;Sarkvidéki (állandóan fagyos);Önálló;Víz;0;Fa 
+BeeHouse;Single Level;;;;;;;Melléképület;Külterület;Sarkköri (tundra);Csoportos (település);Villany;0;Fém
+BeeHouse;Double Decker;;;;;;;Raktár;Remote;Hideg mérsékelt;0;Gáz;0;Műanyag
+BeeHouse;R5MM;;;;;;;Gazdasági épület;Földsznt alatt;Szélsőségesen kontinentális;0;Kábeles Internet;0;0
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;

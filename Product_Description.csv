@@ -1,5 +1,5 @@
-Product,Config Name,R,H,D,A,W,Level,Function,Location,Climate,Category,Infrastructure,Material Limitations,Material preference
-BeeHouse,mYnest,,,,,,,Lakóház,Belterület,Sarkvidéki (állandóan fagyos),Önálló,Víz,0,Fa 
-BeeHouse,Single Level,,,,,,,Melléképület,Külterület,Sarkköri (tundra),Csoportos (település),Villany,0,Fém
-BeeHouse,Double Decker,,,,,,,Raktár,Remote,Hideg mérsékelt,0,Gáz,0,Mûanyag
-BeeHouse,R5MM,,,,,,,Gazdasági épület,Földsznt alatt,Szélsõségesen kontinentális,0,Kábeles Internet,0,0
+num;colorVal;Product;Config Name;R;H;D;A;W;Level;Function;Location;Climate;Category;Infrastructure;Material Limitations;Material preference
+1;-2335;BeeHouse;mYnest;;;;;;;Lakóház;Belterület;Sarkvidéki (állandóan fagyos);Önálló;Víz;0;Fa 
+2;-4000;BeeHouse;Single Level;;;;;;;Melléképület;Külterület;Sarkköri (tundra);Csoportos (település);Villany;0;Fém
+3;26;BeeHouse;Double Decker;;;;;;;Raktár;Remote;Hideg mérsékelt;0;Gáz;0;Mûanyag
+4;-707;BeeHouse;R5MM;;;;;;;Gazdasági épület;Földsznt alatt;Szélsõségesen kontinentális;0;Kábeles Internet;0;0
